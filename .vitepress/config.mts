@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "theArcadiaWiki",
   base: "/ArcadiaWiki/",
-  outDir: "../public",
+  outDir: "./public",
   description: "Wikipedia of theArcadia world!",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

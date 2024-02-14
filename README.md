@@ -4,4 +4,4 @@
 >
 > Why we don't use Github directly? That's because the stupid firewall between PRC and the Global Network causes various problems.
 >
-> Please create [Issues]() and [MR(Merge Requests)]() on our [GitLab Repo]() 
+> Please create [Issues](https://gitlab.com/SiWG/ArcadiaWiki/-/issues) and [MR(Merge Requests)](https://gitlab.com/SiWG/ArcadiaWiki/-/merge_requests) on our [GitLab Repo](https://gitlab.com/SiWG/ArcadiaWiki) 

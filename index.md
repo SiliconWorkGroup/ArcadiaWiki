@@ -3,23 +3,21 @@
 layout: home
 
 hero:
-  name: "theArcadiaWiki"
-  text: "Wikipedia of theArcadia world!"
-  tagline: My great project tagline
+  name: "Wikipedia of theArcadia world"
+  text: "属于Arcadia世界的维基百科"
+  tagline: 有时候也可以当作一系列Mod教程来看
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 关于theArcadia
+      link: /src/arcadia/about.md
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 快速开始
+      link: /src/arcadia/quickstart.md
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 光速上手
+    details: 有了本文档,没有玩Mod经验的原版玩家也能快速上手theArcadia,得到不错的体验!
+  - title: 深入体验
+    details: 借助索引功能,玩家得以快速找到自己感兴趣的部分,让自己的游玩体验更加深入,丰富,有趣!
 ---
 

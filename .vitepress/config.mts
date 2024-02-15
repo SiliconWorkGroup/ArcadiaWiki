@@ -24,12 +24,15 @@ export default defineConfig({
     sidebar: [
       {
         text: 'the Arcadia',
+        link: '/src/arcadia/index.md',
         items: [
-          { text: '关于theArcadia项目', link: '/src/arcadia/about.md' }
+          { text: '关于theArcadia项目', link: '/src/arcadia/about.md' },
+          { text: '快速开始', link: '/src/arcadia/quickstart.md' }
         ]
       },
       {
         text: 'Tetra',
+        link: '/src/tetra/index.md',
         items: [
           { text: '关于Tetra模组', link: '/src/tetra/about.md' }
         ]

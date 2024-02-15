@@ -36,6 +36,11 @@ export default defineConfig({
         items: [
           { text: '关于Tetra模组', link: '/src/tetra/about.md' }
         ]
+      },
+      {
+        text: 'Open Parties and Claims',
+        link: '/src/openpartiesandclaims/index.md',
+        items: [ ]
       }
     ],
 

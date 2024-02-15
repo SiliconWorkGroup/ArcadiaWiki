@@ -1,6 +1,8 @@
 # 关于theArcadia项目
 
-> [!TIP] 你可以在这些地方找到theArcadia
+> [!TIP] 
+> 你可以在这些地方找到theArcadia:
+>
 > [Modrinth](https://modrinth.com/modpack/thearcadia)
 
 ## Arcadia是一个**类原版**的Minecraft整合包

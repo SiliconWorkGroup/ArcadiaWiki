@@ -61,7 +61,7 @@ src/
 
 ### 2. 侧边栏配置
 
-新增页面后，请在 [.vitepress/config.mts](.vitepress/config.mts) 的 `sidebar` 中添加对应的导航链接。
+新增页面后，请在 `.vitepress/config.mts`（仓库根目录）的 `sidebar` 中添加对应的导航链接。
 
 ### 3. Markdown 格式
 

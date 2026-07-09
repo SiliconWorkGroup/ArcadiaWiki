@@ -1,7 +1,7 @@
 
 # theArcadia Wiki
 
-[![AGPL-3.0 License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
+[![AGPL-3.0 License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://github.com/SiliconWorkGroup/ArcadiaWiki/blob/main/LICENSE)
 [![Built with VitePress](https://img.shields.io/badge/Built%20with-VitePress-41b883?logo=vitepress)](https://vitepress.dev/)
 [![Deploy VitePress site to Pages](https://github.com/SiliconWorkGroup/ArcadiaWiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/SiliconWorkGroup/ArcadiaWiki/actions/workflows/deploy.yml)
 
@@ -94,6 +94,6 @@ ArcadiaWiki/
 
 ## 📄 许可
 
-全站内容及源代码均以 [GNU Affero General Public License v3.0](LICENSE) 协议许可。
+全站内容及源代码均以 [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html) 协议许可。
 
 版权所有 © SiWG & all Contributors 2024

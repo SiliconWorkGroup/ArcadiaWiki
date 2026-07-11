@@ -50,7 +50,7 @@ theArcadia 目前维护两个分支：
 - **四季系统**：[Serene Seasons](https://modrinth.com/mod/serene-seasons)
 - **电脑控制**：[CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 
-### ⚙️ Create（机械自动化）
+### ⚙️ Create 机械动力系列
 
 **[Create 6.0](https://modrinth.com/mod/create) + 20+ 个附属模组**：
 
@@ -98,14 +98,14 @@ theArcadia 整合了 **30+ 个客户端模组**，力求精致入微的体验：
 - **Jade** — 指向即知方块信息
 - **EMI + JEI** — 全配方查询
 - **AppleSkin** — 食物饱食度内联显示
-- **TravelersTitles** — 群系切换时低调弹幕提示
+- **Traveler's Titles** — 跨群系/维度时显示史诗级标题
 - **PickUpNotifier** — 自动记录背包变化
 
 ### 🎭 角色动画
 
 - **Not Enough Animations** — 攀爬、爬行、抓梯动作更自然
 - **3D Skin Layers** — 帽子、盔甲有层次感
-- **Chat Animation** — 多人聊天交互更生动
+- **Chat Animation** — 聊天消息平滑弹出动画
 
 ### ⚡ 性能优化
 

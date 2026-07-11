@@ -39,6 +39,7 @@ npm install
 npm run docs:dev
 ```
 
+> [!NOTE]
 > 确保已安装 Node.js >= 18。
 
 ---

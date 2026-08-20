@@ -19,8 +19,8 @@
 |:-----|:-----|:----:|
 | [theArcadia](src/arcadia/) | 整合包介绍、快速上手指南 | 🟢 基础完成 |
 | [Tetra](src/tetra/) | Tetra 模组说明：模块化武器工具系统 | 🟢 基础完成 |
-| [Open Parties and Claims](src/openpartiesandclaims/) | OPAC 模组：领地保护与朋友管理 | 🟡 需要补充 |
-| [Spelunkery](src/spelunkery/) | Spelunkery 模组：探险与矿产扩展 | 🔴 待编写 |
+| [Open Parties and Claims](src/openpartiesandclaims/) | OPAC 模组：领地保护与朋友管理 | 🟢 基础完成 |
+| [Spelunkery](src/spelunkery/) | Spelunkery 模组：探险与矿产扩展 | 🟢 基础完成 |
 
 ---
 

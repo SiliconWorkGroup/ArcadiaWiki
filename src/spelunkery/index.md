@@ -3,7 +3,7 @@
 > [!TIP]
 > 你可以在这些地方找到 Spelunkery：
 >
-> [Modrinth](https://modrinth.com/mod/spelunkery) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spelunkery) | [GitHub](https://github.com/MehVahdJukaar/spelunkery) | [MCMod百科](https://www.mcmod.cn/class/8116.html)
+> [Modrinth](https://modrinth.com/mod/spelunkery) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spelunkery) | [GitHub](https://github.com/MehVahdJukaar/spelunkery) | [官方 Wiki](https://github.com/AstralOrdana/Spelunkery/wiki) | [MCMod百科](https://www.mcmod.cn/class/8116.html)
 
 ## 简介
 
@@ -51,6 +51,18 @@
 
 ---
 
+## 词条导航
+
+| 页面 | 内容 |
+|:-----|:-----|
+| [矿物与资源](./resources.md) | 粗矿粒、宝石碎片、粗糙宝石、钻石砂轮、矿石变体、大型矿脉、泉水、硫磺、硝石等 |
+| [实用工具](./utilities.md) | 绳梯、木轨、降落伞、渠道与淘金槽、荧光棒、深度计、磁力工具、勘探工具等 |
+| [原版改动](./vanilla-alterations.md) | 矿石掉落改动、石头变体世界生成、裂隙、史莱姆、铁砧修复、幽匿等 |
+| [粉盐](./pink-salt.md) | 盐的获取、阻挡亡灵、盐桶、盐块、岩盐建材与照明 |
+| [软玉经验存储](./nephrite-xp-storage.md) | 软玉组件的经验存储、传输与提取系统 |
+
+---
+
 ## 兼容性
 
 Spelunkery 已针对以下模组进行了广泛兼容性测试：
@@ -61,10 +73,22 @@ Spelunkery 已针对以下模组进行了广泛兼容性测试：
 ### 推荐搭配
 
 Spelunkery 与以下模组搭配效果最佳：
+
 - [Would](https://modrinth.com/mod/would)
 - [Verdant](https://modrinth.com/mod/verdant-mod)
 - [Grounded](https://modrinth.com/mod/grounded)
 - [Oxide](https://modrinth.com/mod/oxide)
+
+### 自动联动
+
+Spelunkery 与部分模组安装后会自动联动，无需额外配置：
+
+| 模组 | 联动内容 |
+|:-----|:---------|
+| **Create** | 新增深板岩锌矿石掉落的粗锌矿粒；禁用自带铜矿粒改用 Create 的；覆盖部分产出矿粒的配方为粗矿粒；为新增方块提供完整的灌注、排空、混合、粉碎配方 |
+| **Sully's Mod** | 新增深板岩软玉矿石掉落的粗糙软玉碎片，可由粗糙软玉合成；与 Sully's Mod 的砂轮打磨配方无冲突 |
+| **Oreganized** | 新增深板岩铅矿石和银矿石掉落的粗铅矿粒、粗银矿粒 |
+| **锤与凿联动** | 潜行右键方块可转换为錾制形态，内置支持 Quark、Malum、Botania、Sully's Mod、Oreganized 等模组的錾制方块 |
 
 ---
 

@@ -2,6 +2,9 @@
 
 本文将帮助你在 theArcadia 整合包的多人游戏中快速上手 OPAC 模组。
 
+> [!NOTE]
+> 本文命令基于 OPAC **0.30.0+**（theArcadia 内置版本）。0.30.0 起所有聊天指令前缀已缩短：`/opac`、`/oclaims`、`/oparties`；旧前缀 `/openpac`、`/openpac-claims`、`/openpac-parties`、`/party` 已不再使用。
+
 ---
 
 ## 基本按键
@@ -27,7 +30,7 @@
 ### 方法二：通过聊天指令
 
 ```
-/openpac-claims add
+/oclaims claim
 ```
 
 > 如果你安装了 [Xaero 的世界地图](https://modrinth.com/mod/xaeros-world-map)，可以在世界地图界面上**右键拖拽选择区域**来批量声明领地。
@@ -58,17 +61,19 @@
 ### 创建队伍
 
 ```
-/openpac-parties create <队伍名称>
+/oparties create
 ```
+
+> 创建后你的队伍将以你的玩家名为队名。
 
 ### 队伍管理指令
 
 | 指令 | 说明 |
 |:-----|:------|
-| `/party invite <玩家名>` | 邀请玩家加入队伍 |
-| `/party kick <玩家名>` | 踢出队伍成员 |
-| `/party leave` | 离开当前队伍 |
-| `/party info` | 查看队伍信息 |
+| `/oparties member invite <玩家名>` | 邀请玩家加入队伍 |
+| `/oparties member kick <玩家名>` | 踢出队伍成员 |
+| `/oparties leave` | 离开当前队伍 |
+| `/oparties about` | 查看队伍信息 |
 | `/opm <消息>` | 发送队伍聊天消息 |
 
 ### 队伍聊天
@@ -79,7 +84,7 @@
 
 ## 个人配置
 
-通过 OPAC 菜单或使用指令 `/openpac` 可以配置个人设置：
+通过 OPAC 菜单或使用指令 `/opac player-config` 可以配置个人设置：
 
 - **最大声明数量**：可声明的区块总数上限（由服务器配置）
 - **强制加载限制**：可强制加载的区块数量上限

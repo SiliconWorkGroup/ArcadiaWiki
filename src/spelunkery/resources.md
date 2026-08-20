@@ -2,7 +2,7 @@
 
 Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每个阶段都有新的收获。
 
-> 📖 本节内容整理自 [Spelunkery 官方 Wiki（Resources）](https://github.com/AstralOrdana/Spelunkery/wiki/Resources)
+> 📖 本节内容整理自 [Spelunkery 官方 Wiki（Resources）](https://github.com/Silversmith-Mods/Spelunkery/wiki/Resources)
 
 ---
 
@@ -14,12 +14,10 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 各金属矿石的**深板岩变体**在被开采时会额外掉落少量粗矿粒，鼓励玩家深入地下挖掘
 - 下界金矿石现在也会掉落粗金矿粒
 
-![粗矿粒](https://user-images.githubusercontent.com/62686557/217732099-c0aae3ff-fff4-4522-adcc-5bc43d9b0b08.png)
+![粗矿粒](/res/screenshots/spelunkery/spelunkery-39.webp)
 
 > [!NOTE]
-> **Create 联动**：安装 Create 后，Spelunkery 的铜矿粒会被禁用，改用 Create 自带的铜矿粒；同时新增粗锌矿粒，由深板岩锌矿石掉落。
->
-> **Oreganized 联动**：安装 Oreganized 后，其深板岩银矿石和深板岩铅矿石也会掉落对应的粗矿粒。
+> **Create 联动**：安装 Create 后（theArcadia 已内置），Spelunkery 的铜矿粒会被禁用，改用 Create 自带的铜矿粒；同时新增粗锌矿粒，由深板岩锌矿石掉落。
 
 ## 宝石碎片（Gem Shards）
 
@@ -29,10 +27,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 宝石矿石的深板岩变体有几率额外掉落粗糙碎片
 - 下界石英也新增了粗糙碎片和粗糙石英块
 
-![宝石碎片](https://github.com/AstralOrdana/Spelunkery/assets/62686557/3029f4c2-e41a-4aec-b73f-d3f110b91ede)
-
-> [!NOTE]
-> **Sully's Mod 联动**：安装 Sully's Mod 后，会启用粗糙与抛光软玉碎片。
+![宝石碎片](/res/screenshots/spelunkery/spelunkery-03.webp)
 
 ## 煤炭块与木炭块（Lump of Coal & Charcoal Briquette）
 
@@ -41,7 +36,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 深板岩煤矿石会掉落煤炭块
 - 木炭块可通过烧炼或烧制特定食物获得
 
-![煤炭块与木炭块](https://github.com/AstralOrdana/Spelunkery/assets/62686557/9da97549-c2d1-4ffb-88aa-0c9428916ca8)
+![煤炭块与木炭块](/res/screenshots/spelunkery/spelunkery-12.webp)
 
 ## 卵石（Pebbles）
 
@@ -49,7 +44,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 9 个同类卵石可以合回对应的石块
 - 卵石可以像雪球一样投掷，命中实体时将其击退，但不造成伤害
 
-![卵石](https://github.com/AstralOrdana/Spelunkery/assets/62686557/964935de-bdeb-49a4-b0bf-ec715a5cd386)
+![卵石](/res/screenshots/spelunkery/spelunkery-10.webp)
 
 ---
 
@@ -66,7 +61,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 
 将粗糙宝石放在**砂轮**上打磨，即可得到精炼形态。任何粗糙碎片、宝石或宝石块都可以打磨，并始终获得相应比例的经验值和物品。
 
-![粗糙宝石块](https://user-images.githubusercontent.com/62686557/211238177-468318cb-60b9-4eca-a559-ad0e2031d9cd.png)
+![粗糙宝石块](/res/screenshots/spelunkery/spelunkery-18.webp)
 
 部分宝石打磨时会产生额外副产物：
 
@@ -75,7 +70,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 
 按住 **Shift + 右键** 可将整组粗糙材料一次性打磨完毕。
 
-![砂轮打磨](https://user-images.githubusercontent.com/62686557/211240877-c3394069-6124-467d-a42f-f67849d34b9f.png)
+![砂轮打磨](/res/screenshots/spelunkery/spelunkery-19.webp)
 
 ### 钻石砂轮（Diamond Grindstone）
 
@@ -86,7 +81,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 损耗达到 3 级后，无法再打磨粗糙钻石和绿宝石
 - 手持粗糙钻石碎片对损耗的钻石砂轮 **Shift + 右键**，可恢复一级损耗
 
-![钻石砂轮](https://github.com/user-attachments/assets/8be74365-ec42-4697-9262-a8125c437d05)
+![钻石砂轮](/res/screenshots/spelunkery/spelunkery-16.webp)
 
 ---
 
@@ -96,9 +91,9 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 
 - 花岗岩、安山岩、闪长岩变体与原版石头矿石特性相同；凝灰岩变体更接近深板岩
 - 矿石矿脉无论与哪种岩石变体相交，都会生成对应变体
-- 同时为一些热门模组的新矿石提供变体，包括 Sully's Mod 的软玉、Oreganized 的银和铅、Create 的锌
+- 同时为 Create 的锌矿石提供变体
 
-![矿石变体](https://user-images.githubusercontent.com/62686557/221013077-71898223-ab1a-4e86-9601-86e81f3efcd5.png)
+![矿石变体](/res/screenshots/spelunkery/spelunkery-51.webp)
 
 ---
 
@@ -116,9 +111,9 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 | **大型金矿脉** | 下界 | 下界金矿石与粗金块的随机簇 |
 | **石英晶洞** | 下界 | 由下界岩、黑石、下界石英矿石和粗糙石英块构成 |
 
-![大型青金石矿脉](https://user-images.githubusercontent.com/62686557/211238161-23e64322-2dfd-4e16-bfa8-838626f6ff03.png)
+![大型青金石矿脉](/res/screenshots/spelunkery/spelunkery-17.webp)
 
-![熔岩旁的稀有钻石簇](https://user-images.githubusercontent.com/62686557/212526630-ec053b2b-af56-4597-8de7-91af58477b61.png)
+![熔岩旁的稀有钻石簇](/res/screenshots/spelunkery/spelunkery-22.webp)
 
 ---
 
@@ -130,7 +125,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 具有天然治愈效果，但**无法形成无限水源**
 - 在泉水下方放置岩浆块时，泉水会尝试向上"沸腾"穿过岩层，直到突破到地表
 
-![温泉](https://github.com/AstralOrdana/Spelunkery/assets/62686557/1fccd2e3-116c-4b72-aabd-9406971c077a)
+![温泉](/res/screenshots/spelunkery/spelunkery-01.webp)
 
 ### 粉盐（Pink Salt）
 
@@ -138,7 +133,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 天然形态出现在山地生物群系高海拔的条纹和簇中
 - 其各种形态具有多种[独特特性](./pink-salt.md)
 
-![粉盐](https://user-images.githubusercontent.com/62686557/216679580-6232c448-6d9a-4287-afb8-c9bdbf3e9117.png)
+![粉盐](/res/screenshots/spelunkery/spelunkery-37.webp)
 
 ### 硫磺（Sulfur）
 
@@ -146,7 +141,7 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 可在下界灵魂沙谷岸边的斑块中获得
 - 用于合成**火药**
 
-![硫磺斑块](https://github.com/AstralOrdana/Spelunkery/assets/62686557/100529e7-9283-4d9b-9ce2-836a35bca9ea)
+![硫磺斑块](/res/screenshots/spelunkery/spelunkery-00.webp)
 
 ### 硝石（Saltpeter）
 
@@ -154,22 +149,22 @@ Spelunkery 重新设计了多种矿物与资源的获取方式，让挖矿的每
 - 可通过[淘金槽](./utilities.md#渠道与淘金槽-channels--sluices)用水冲洗黏土获得，或从泉水中被动获得
 - 用于合成**骨粉、火药**，或将腐肉干燥成**皮革**
 
-![硝石](https://github.com/AstralOrdana/Spelunkery/assets/62686557/a0890aec-b420-43c2-86f3-91dba7b47f14)
+![硝石](/res/screenshots/spelunkery/spelunkery-13.webp)
 
 ### 软玉（Nephrite）
 
 - 深绿色石材，生成于深层地下的小型巨砾中，被凝灰岩包裹，核心处藏有更"险恶"的东西
 - 可合成为多种有用的[经验存储组件](./nephrite-xp-storage.md)
 
-![软玉](https://user-images.githubusercontent.com/62686557/212526755-0a4bd141-2f61-411c-8264-73700b38449a.png)
+![软玉](/res/screenshots/spelunkery/spelunkery-23.webp)
 
 ### 粗磁铁矿（Raw Magnetite）
 
 - 粗磁铁矿块混合生成于大型铁矿脉中
 - 开采后获得粗磁铁矿，可用来合成多种[实用工具](./utilities.md)
 
-![粗磁铁矿](https://github.com/AstralOrdana/Spelunkery/assets/62686557/ec03f00a-1cca-4d3f-8290-315c13a5bc4a)
+![粗磁铁矿](/res/screenshots/spelunkery/spelunkery-14.webp)
 
 ---
 
-> 📖 更多细节请参阅 [Spelunkery 官方 Wiki](https://github.com/AstralOrdana/Spelunkery/wiki)
+> 📖 更多细节请参阅 [Spelunkery 官方 Wiki](https://github.com/Silversmith-Mods/Spelunkery/wiki)

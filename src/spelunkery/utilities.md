@@ -2,7 +2,7 @@
 
 Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源收集更加轻松。
 
-> 📖 本节内容整理自 [Spelunkery 官方 Wiki（Utilities）](https://github.com/AstralOrdana/Spelunkery/wiki/Utilities)
+> 📖 本节内容整理自 [Spelunkery 官方 Wiki（Utilities）](https://github.com/Silversmith-Mods/Spelunkery/wiki/Utilities)
 
 ---
 
@@ -13,7 +13,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 对顶部绳梯右键可**逐格自动收回**
 - 向下延伸的绳梯仅靠上方支撑即可悬空，不需要像原版梯子那样依附方块
 
-![绳梯](https://user-images.githubusercontent.com/62686557/212528279-ad46da9d-40c5-4c66-b5fe-dbb8a52708fe.png)
+![绳梯](/res/screenshots/spelunkery/spelunkery-28.webp)
 
 ## 木轨（Wooden Rails）
 
@@ -21,7 +21,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 可以**悬空跨越空洞**，是跨越峡谷的理想选择
 - 矿车在木轨上行驶时会轻微晃动——毕竟这是一条摇摇晃晃的轨道
 
-![木轨](https://user-images.githubusercontent.com/62686557/212528587-4fd1e374-9b19-422b-8941-116dbe58fc6e.png)
+![木轨](/res/screenshots/spelunkery/spelunkery-32.webp)
 
 ## 降落伞（Parachutes）
 
@@ -29,7 +29,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 放在背包中时，若检测到下落高度足以造成显著伤害，会自动展开并**减缓下落**
 - 落地后需要重新折叠，才能在下一次坠落时再次生效
 
-![降落伞](https://github.com/AstralOrdana/Spelunkery/assets/62686557/8f7475dd-489b-4b12-b2c8-02ea76de27c7)
+![降落伞](/res/screenshots/spelunkery/spelunkery-09.webp)
 
 ---
 
@@ -41,7 +41,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - **淘金槽**是特殊的渠道：内部有 9 格物品栏，流体流过其格栅侧面时会**生成物品**
 - 特定物品在流动的流体中经过淘金槽会被"淘洗"产出新物品，例如用水淘洗泥土可得到[卵石](./resources.md#卵石-pebbles)或种子
 
-![渠道与淘金槽](https://github.com/AstralOrdana/Spelunkery/assets/62686557/672d950c-fd40-413c-af8c-0316a6aff338)
+![渠道与淘金槽](/res/screenshots/spelunkery/spelunkery-05.webp)
 
 ## 荧光棒（Glow Sticks）
 
@@ -50,14 +50,14 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 拥有全部 **16 种颜色** + 发光墨囊色，适合标记不同路线
 - 安装 Shimmer 模组后支持**彩色照明**联动
 
-![多色荧光棒](https://user-images.githubusercontent.com/62686557/212528378-d7c41fdb-3771-434c-b8d0-9a0cb617e7c6.png)
+![多色荧光棒](/res/screenshots/spelunkery/spelunkery-29.webp)
 
 ## 深度计（Depth Meter）
 
 - 由铜和红石合成
 - 无需打开 F3 调试界面，即可显示你当前的海拔高度
 
-![深度计](https://user-images.githubusercontent.com/62686557/212528502-c0ce800b-864f-4a67-8942-d9cb6d18b78c.png)
+![深度计](/res/screenshots/spelunkery/spelunkery-31.webp)
 
 ---
 
@@ -69,7 +69,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 附近存在强磁场时磁性会受干扰：如果 128 格内有磁铁矿块，罗盘会**指向磁铁矿**而非北方
 - 合成：在锻造台上将指南针与磁铁矿块组合（1.20+ 也可用 4 个粗磁铁矿 + 1 个红石合成）
 
-![磁罗盘](https://github.com/AstralOrdana/Spelunkery/assets/62686557/8d9674a3-c7ca-4a6e-8e4f-906087ad088d)
+![磁罗盘](/res/screenshots/spelunkery/spelunkery-08.webp)
 
 ### 物品磁铁（Item Magnet）
 
@@ -77,7 +77,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 右键激活后，将附近的掉落物**吸向玩家**
 - 放在物品展示框中的已激活物品磁铁同样会吸引掉落物，可用于自动化农场
 
-![物品磁铁](https://github.com/AstralOrdana/Spelunkery/assets/62686557/82c38b97-38b3-47bf-9263-ecd10de0619c)
+![物品磁铁](/res/screenshots/spelunkery/spelunkery-06.webp)
 
 ---
 
@@ -89,7 +89,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 右键激活后尝试探测附近的**紫水晶晶洞**
 - 成功后指向探测到的晶洞，越靠近振动越快
 
-![音叉](https://github.com/AstralOrdana/Spelunkery/assets/62686557/2eae2db1-c69a-45ae-b25b-e272d7616a23)
+![音叉](/res/screenshots/spelunkery/spelunkery-02.webp)
 
 ### 回响叉（Echo Fork）
 
@@ -98,7 +98,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 使用冷却时间 30 秒
 - 可在远古城市战利品箱中找到，或用回响碎片、幽匿脉络和铁合成
 
-![回响叉](https://user-images.githubusercontent.com/62686557/217730584-2ac09f4a-90ef-4ece-bd44-be6ddaf31ee2.png)
+![回响叉](/res/screenshots/spelunkery/spelunkery-38.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 可以**替代打火石点燃下界传送门**
 - 饮用后会传送回你的**出生点**，即使跨维度也有效
 
-![次元之泪瓶](https://user-images.githubusercontent.com/62686557/212528799-ffeb926f-b321-459d-8647-94a82c1eb1ff.png)
+![次元之泪瓶](/res/screenshots/spelunkery/spelunkery-33.webp)
 
 ### 锤与凿（Hammer and Chisel）
 
@@ -120,7 +120,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 掉落物等于**精准采集**挖掘的结果
 - 潜行长按右键时，会将方块转换为**錾制形态**（若有；否则正常破坏）
 
-![锤与凿](https://user-images.githubusercontent.com/62686557/216196608-07108484-6941-4cb0-8c7f-8e2512afb632.png)
+![锤与凿](/res/screenshots/spelunkery/spelunkery-34.webp)
 
 ### 炸矿虫（Mine-o-mite）
 
@@ -130,7 +130,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 投掷时附着在击中的方块上
 - 若副手持打火石投掷，炸矿虫会在接触任何表面时立即爆炸
 
-![炸矿虫](https://user-images.githubusercontent.com/62686557/230748204-4fbf17a0-0e37-4b5c-84c8-9b23338bd9f8.png)
+![炸矿虫](/res/screenshots/spelunkery/spelunkery-53.webp)
 
 ### 压缩爆破挖掘机（Compression Blast Miner）
 
@@ -138,7 +138,7 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 定向方块：右键用 TNT 装填，充能后朝其面向的方向引爆
 - 爆炸威力足以破坏**几乎所有方块（包括基岩）**
 
-![压缩爆破挖掘机](https://user-images.githubusercontent.com/62686557/230747622-fc193705-2578-468f-947f-e299b0371095.png)
+![压缩爆破挖掘机](/res/screenshots/spelunkery/spelunkery-52.webp)
 
 ---
 
@@ -149,8 +149,8 @@ Spelunkery 新增了多种实用工具，让洞穴探险、垂直移动与资源
 - 原版回响罗盘（指向你最近死亡点的指南针）死亡时**不再从物品栏掉落**
 - 它会留在物品栏中，让你能立刻追踪死亡点
 
-![回响罗盘](https://user-images.githubusercontent.com/62686557/212528491-df778e79-1fc7-4b4b-9482-084eba087896.png)
+![回响罗盘](/res/screenshots/spelunkery/spelunkery-30.webp)
 
 ---
 
-> 📖 更多细节请参阅 [Spelunkery 官方 Wiki](https://github.com/AstralOrdana/Spelunkery/wiki)
+> 📖 更多细节请参阅 [Spelunkery 官方 Wiki](https://github.com/Silversmith-Mods/Spelunkery/wiki)

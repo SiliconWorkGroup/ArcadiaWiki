@@ -10,7 +10,7 @@
 
 软玉（Nephrite）生成于深层地下被凝灰岩包裹的巨砾中。将软玉加工为各类组件后，即可构建经验存储网络。**充能会在相邻的雕刻软玉之间均衡流动**，且总是优先向下流动，设计存储容器时需注意这一点——可以把它想象成方块内部有液体。每块雕刻软玉可存储 **100 点充能**（从零开始略超过 7 级经验）。
 
-![雕刻软玉](/res/screenshots/spelunkery/spelunkery-24.webp)
+![雕刻软玉](/res/screenshots/spelunkery/carved_nephrite.webp)
 
 ---
 
@@ -29,14 +29,14 @@
 
 用于将经验值转换为充能：抽取站在其上方的玩家经验，或吸收附近的经验球。
 
-![软玉虹吸器](/res/screenshots/spelunkery/spelunkery-25.webp)
+![软玉虹吸器](/res/screenshots/spelunkery/nephrite_siphon.webp)
 
 ## 软玉喷泉（Nephrite Fountain）
 
 - 放置在雕刻软玉上，被红石信号激活时，将下方软玉的充能**转换回经验球**
 - 若喷泉紧邻充能的雕刻软玉，可用**玻璃瓶**右键，将充能换成一瓶附魔之瓶
 
-![软玉喷泉](/res/screenshots/spelunkery/spelunkery-26.webp)
+![软玉喷泉](/res/screenshots/spelunkery/nephrite_fountain.webp)
 
 ## 软玉二极管（Nephrite Diode）
 
@@ -45,7 +45,7 @@
 - 与其他组件不同，二极管**可以被活塞推动**
 - 由于每次信号只传输 1 点充能，需要红石时钟才能高效利用
 
-![软玉二极管](/res/screenshots/spelunkery/spelunkery-27.webp)
+![软玉二极管](/res/screenshots/spelunkery/nephrite_diode.webp)
 
 ---
 

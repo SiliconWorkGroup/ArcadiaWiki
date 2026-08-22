@@ -1,10 +1,5 @@
 # Create（机械动力）
 
-> [!TIP]
-> 你可以在这些地方找到 Create：
->
-> [Modrinth](https://modrinth.com/mod/create) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) | [GitHub](https://github.com/Creators-of-Create/Create) | [官方文档站](https://wiki.createmod.net/) | [MCMod 百科](https://www.mcmod.cn/class/1158.html)
-
 ## 简介
 
 **Create** 是一个专注于机械自动化与装饰建造的模组。它用一套直观的**旋转动力（Rotation）**系统取代传统的"发电—管道传输"模式：水车、蒸汽机产生旋转力，齿轮、皮带把动力传递到搅拌器、机械手等各类机器上，所有装置都由你亲手搭建、亲眼看着运转。

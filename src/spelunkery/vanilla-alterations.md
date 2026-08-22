@@ -20,9 +20,9 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 - 所有矿石的**深板岩变体**在开采时有几率额外掉落物品
 - 金属矿石掉落粗矿粒，宝石矿石掉落粗糙碎片
 
-![矿石掉落改动](/res/screenshots/spelunkery/spelunkery-45.webp)
+![矿石掉落改动](/res/screenshots/spelunkery/ore_drop_changes.webp)
 
-![粗矿粒](/res/screenshots/spelunkery/spelunkery-46.webp)
+![粗矿粒](/res/screenshots/spelunkery/raw_nuggets_drops.webp)
 
 ---
 
@@ -33,7 +33,7 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 - 在 **y=0 以下**，凝灰岩替代其他三种次生石头生成
 - 地表以下 20 格内会生成泥土、砂土和沙砾
 
-![石头条纹](/res/screenshots/spelunkery/spelunkery-21.webp)
+![石头条纹](/res/screenshots/spelunkery/stone_stripes.webp)
 
 ---
 
@@ -42,13 +42,13 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 - 废弃矿井中现在会出现**尘土堆**
 - 部分走廊布满尘土，偶尔会出现**尘兔（Dust Bunny）刷怪笼**
 
-![尘土走廊](/res/screenshots/spelunkery/spelunkery-11.webp)
+![尘土走廊](/res/screenshots/spelunkery/dusty_corridor.webp)
 
 ## 裂隙雕刻器（Crevasse Carvers）
 
 - 实验性世界生成快照中的**裂隙（Crevasse）**型雕刻器被重新实现，形状略有调整
 
-![裂隙](/res/screenshots/spelunkery/spelunkery-15.webp)
+![裂隙](/res/screenshots/spelunkery/crevasse.webp)
 
 ---
 
@@ -56,27 +56,27 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 
 - 磁石新增替代合成配方：使用[磁铁矿块](./resources.md#粗磁铁矿-raw-magnetite)代替下界合金锭
 
-![磁石配方](/res/screenshots/spelunkery/spelunkery-47.webp)
+![磁石配方](/res/screenshots/spelunkery/lodestone_recipe.webp)
 
 ## 史莱姆（Slimes）
 
 - 史莱姆现在可以**在史莱姆区块之外的地下生成**
 - 越深入地下，生成频率越高
 
-![史莱姆](/res/screenshots/spelunkery/spelunkery-42.webp)
+![史莱姆](/res/screenshots/spelunkery/slime.webp)
 
 ## 腐肉（Rotten Flesh）
 
 - 腐肉现在可以通过与**盐或硝石**结合，合成为**皮革**
 
-![腐肉合成皮革](/res/screenshots/spelunkery/spelunkery-48.webp)
+![腐肉合成皮革](/res/screenshots/spelunkery/rotten_flesh_leather.webp)
 
 ## 铁砧修复（Anvil Restoration）
 
 - 对受损的铁砧右键**铁锭**，可恢复一阶损坏
 - 用于修复铁砧的物品由物品标签控制，可自定义
 
-![铁砧修复](/res/screenshots/spelunkery/spelunkery-44.webp)
+![铁砧修复](/res/screenshots/spelunkery/anvil_restoration.webp)
 
 ---
 
@@ -87,7 +87,7 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 - [次元之泪瓶](./utilities.md#次元之泪瓶-bottle-o-dimensional-tears)可以点燃传送门
 - 配置项（默认关闭）可禁用打火石点燃传送门，为喜欢挑战的玩家增加难度
 
-![下界传送门](/res/screenshots/spelunkery/spelunkery-43.webp)
+![下界传送门](/res/screenshots/spelunkery/nether_portal.webp)
 
 ---
 
@@ -96,7 +96,7 @@ Spelunkery 对原版 Minecraft 的诸多机制进行了调整，让地下世界�
 - 幽匿块现在用剪刀开采会掉落**幽匿脉络**
 - 幽匿块可以用幽匿脉络合成
 
-![幽匿](/res/screenshots/spelunkery/spelunkery-41.webp)
+![幽匿](/res/screenshots/spelunkery/sculk.webp)
 
 ---
 
@@ -110,9 +110,9 @@ Spelunkery 大幅扩展了史莱姆的养殖玩法：
 - **友好史莱姆**：玩家拥有**生命恢复**效果时，任何体型的史莱姆都无法伤害你
 - **史莱姆炼金术**：将粘液块扔进装满水的炼药锅中，会消耗全部水并召唤一只**幼年史莱姆**
 
-![史莱姆喂食](/res/screenshots/spelunkery/spelunkery-49.webp)
+![史莱姆喂食](/res/screenshots/spelunkery/slime_feeding.webp)
 
-![史莱姆食物](/res/screenshots/spelunkery/spelunkery-50.webp)
+![史莱姆食物](/res/screenshots/spelunkery/slime_foods.webp)
 
 ---
 

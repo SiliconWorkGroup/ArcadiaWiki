@@ -37,6 +37,3 @@ theArcadia 中多个模组会与 Create 自动联动：
 | **Spelunkery** | 新增深板岩锌矿石掉落的粗锌矿粒；禁用自带铜矿粒改用 Create 的；为新增方块提供灌注、排空、混合、粉碎配方，详见 [Spelunkery 词条](../spelunkery/index.md) |
 | **Sophisticated Backpacks / Storage** | 通过内嵌的集成模组，背包与容器可随 Create 装置一同移动运作 |
 | **AE2 (应用能源)** | 通过 Applied Create 等桥接附属连接电力与旋转动力体系 |
-
-> [!TIP]
-> 第三方视频教程：[Create 教程合集（Bilibili 搜索）](https://search.bilibili.com/all?keyword=Create%20%E6%9C%BA%E6%A2%B0%E5%8A%A8%E5%8A%9B%E6%95%99%E7%A8%8B)

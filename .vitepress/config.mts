@@ -31,6 +31,18 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Create（机械动力）',
+        link: '/src/create/index.md',
+        items: [
+          { text: '入门指南', link: '/src/create/gettingstarted.md' },
+          { text: '动力与应力', link: '/src/create/rotation.md' },
+          { text: '核心机械', link: '/src/create/machines.md' },
+          { text: '物流与流体', link: '/src/create/logistics.md' },
+          { text: '列车系统', link: '/src/create/trains.md' },
+          { text: '整合包附属指南', link: '/src/create/addons.md' }
+        ]
+      },
+      {
         text: 'Tetra',
         link: '/src/tetra/index.md',
         items: [

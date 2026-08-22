@@ -24,7 +24,7 @@ Create 的核心乐趣可以概括为三件事：
 
 | 页面 | 内容 |
 |:-----|:-----|
-| [入门指南](./gettingstarted.md) | 安山岩合金起步、第一台水车、常用工具 |
+| [入门指南](./gettingstarted.md) | 安山合金起步、第一台水车、常用工具 |
 | [动力与应力](./rotation.md) | 动力来源、传动组件、应力计算公式与数值表 |
 | [核心机械](./machines.md) | 搅拌器、粉碎轮、动力冲压机等加工机器一览 |
 | [物流与流体](./logistics.md) | 溜槽、漏斗、流体管道、纸壳包裹物流系统 |
@@ -43,4 +43,5 @@ theArcadia 中多个模组会与 Create 自动联动：
 | **Sophisticated Backpacks / Storage** | 通过内嵌的集成模组，背包与容器可随 Create 装置一同移动运作 |
 | **AE2 (应用能源)** | 通过 Applied Create 等桥接附属连接电力与旋转动力体系 |
 
-> 📖 更多机制细节请参阅 [Create 官方文档站](https://wiki.createmod.net/)
+> [!TIP]
+> 第三方视频教程：[Create 教程合集（Bilibili 搜索）](https://search.bilibili.com/all?keyword=Create%20%E6%9C%BA%E6%A2%B0%E5%8A%A8%E5%8A%9B%E6%95%99%E7%A8%8B)
